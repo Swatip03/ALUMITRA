@@ -3,7 +3,7 @@
 Welcome to **Alumitra**, a platform designed to connect, inspire, and empower individuals through a seamless and interactive experience. Whether you're an aspiring professional or an industry expert, Alumitra brings you a world of opportunities. 🌟
 
 ## 🌐 Live Website
-🔗 [Visit Alumitra](https://your-username.github.io/alumitra/) *(Replace with actual URL)*
+🔗 [Visit Alumitra](https://swatip03.github.io/ALUMITRA/) *(Replace with actual URL)*
 
 ---
 
